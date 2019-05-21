@@ -1,0 +1,7 @@
+{
+	"config" : {
+		"randomKey" : "randomValue2"
+	},
+	"question1" : "Whats Up Doc?",
+	"primaryLogo" : "http://localhost:8080/admin/trash-logos/carrington_logo.png"
+}

@@ -1,0 +1,33 @@
+{
+	"code" : "OK",
+	"data" : {
+		"purchasing.rentEText.promoCode" : "1234",
+		"purchasing.purchaseEText.enabled" : "true",
+		"basic.name" : "My Stack Name",
+		"purchasing.rentEText.url" : "www.rentalsite.com",
+		"purchasing.purchaseTextbook.enabled" : "true",
+		"language" : "es",
+		"type" : "publisher",
+		"passwordResetUrl" : "http://online.vitalsource.com/forgot",
+		"styling.messaging.loginWelcome" : "Welcome to the Whatever Bridge",
+		"styling.messaging.collectionInfo" : "Purchase or rent an eText",
+		"purchasing.purchaseEText.url" : "www.rentalsite.com",
+		"purchasing.rentEText.enabled" : "true",
+		"styling.primaryLogo" : "www.primary.com/image.png",
+		"purchasing.purchaseTextbook.url" : "www.rentalsite.com",
+		"styling.messaging.loginInfo" : "Login to start reading",
+		"purchasing.purchaseEText.promoCode" : "1234",
+		"styling.secondaryColor" : "3196AF",
+		"purchasing.addDrop" : "true",
+		"purchasing.ePlusP" : "false",
+		"styling.primaryColor" : "007795",
+		"basic.language" : "en",
+		"basic.type" : "publisher",
+		"name" : "Demo",
+		"style" : "green",
+		"styling.secondaryLogo" : "www.secondary.com/image.png",
+		"purchasing.purchaseTextbook.promoCode" : "1234",
+		"styling.messaging.eTextInfo" : "Purchase or rent an eText"
+	},
+	"text" : "OK"
+}

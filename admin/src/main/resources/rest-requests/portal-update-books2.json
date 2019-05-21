@@ -1,0 +1,212 @@
+{
+"books":[{
+"authorName":"Ruth Picker,Ken Leo,Janice Loftus,Victoria Wise,Kerry Clark",
+"bookId":4,
+"coverImageUrl":"http://covers.vitalbook.com/vbid/9780730302155/width/120",
+"description":"",
+"ebookIsbn":"9780730302124",
+"libraryId":19,
+"name":"Applying International Financial Reporting Standards",
+"selected":true,
+"textbookIsbn":"9780730302155",
+"vbid":"9780730302155"
+},{
+"authorName":"Jerry J. Weygandt",
+"bookId":5,
+"coverImageUrl":"http://covers.vitalbook.com/vbid/9781118231425/width/120",
+"description":"",
+"ebookIsbn":null,
+"libraryId":19,
+"name":"Managerial Accounting:Tools for Business Decision-Making,Third Canadian Edition",
+"selected":false,
+"textbookIsbn":"9781118231425",
+"vbid":"9781118231425"
+},{
+"authorName":"Robyn Moroney",
+"bookId":6,
+"coverImageUrl":"http://covers.vitalbook.com/vbid/9781118274743/width/120",
+"description":"",
+"ebookIsbn":"9780470678909",
+"libraryId":19,
+"name":"Auditing:A Practical Approach,Canadian Edition",
+"selected":false,
+"textbookIsbn":"9781118274743",
+"vbid":"9781118274743"
+},{
+"authorName":"James W. Smither,Manuel London",
+"bookId":7,
+"coverImageUrl":"http://covers.vitalbook.com/vbid/9781118289433/width/120",
+"description":"",
+"ebookIsbn":"9780470192320",
+"libraryId":19,
+"name":"Performance Management:Putting Research into Action",
+"selected":false,
+"textbookIsbn":"9781118289433",
+"vbid":"9781118289433"
+},{
+"authorName":"William F. Samuelson",
+"bookId":8,
+"coverImageUrl":"http://covers.vitalbook.com/vbid/9781118297841/width/120",
+"description":"",
+"ebookIsbn":"9781118041581",
+"libraryId":19,
+"name":"Managerial Economics",
+"selected":false,
+"textbookIsbn":"9781118297841",
+"vbid":"9781118297841"
+},{
+"authorName":"Leslie G Eldenburg",
+"bookId":9,
+"coverImageUrl":"http://covers.vitalbook.com/vbid/9781118342596/width/120",
+"description":"",
+"ebookIsbn":"9781118168875",
+"libraryId":19,
+"name":"Cost Management:Measuring,Monitoring,and Motivating Performance,Second Canadian Edition",
+"selected":false,
+"textbookIsbn":"9781118342596",
+"vbid":"9781118342596"
+},{
+"authorName":"Gail Fayerman",
+"bookId":10,
+"coverImageUrl":"http://covers.vitalbook.com/vbid/9781118547182/width/120",
+"description":"",
+"ebookIsbn":"9781118037911",
+"libraryId":19,
+"name":"Advanced Accounting Canadian Edition",
+"selected":true,
+"textbookIsbn":"9781118547182",
+"vbid":"9781118547182"
+},{
+"authorName":"Phil Buckley",
+"bookId":11,
+"coverImageUrl":"http://covers.vitalbook.com/vbid/9781118556566/width/120",
+"description":"",
+"ebookIsbn":"9781118556559",
+"libraryId":19,
+"name":"Change with Confidence:Answers to the 50 Biggest Questions that Keep Change Leaders Up at Night",
+"selected":false,
+"textbookIsbn":"9781118556566",
+"vbid":"9781118556566"
+},{
+"authorName":"Laurence Booth",
+"bookId":12,
+"coverImageUrl":"http://covers.vitalbook.com/vbid/9781118613658/width/120",
+"description":"",
+"ebookIsbn":"9781118300763",
+"libraryId":19,
+"name":"Introduction to Corporate Finance,Third Edition",
+"selected":false,
+"textbookIsbn":"9781118613658",
+"vbid":"9781118613658"
+},{
+"authorName":"Donald E. Kieso",
+"bookId":13,
+"coverImageUrl":"http://covers.vitalbook.com/vbid/9781118655696/width/120",
+"description":"",
+"ebookIsbn":"9781118300848",
+"libraryId":19,
+"name":"Intermediate Accounting,Tenth Canadian Edition,Volume 1",
+"selected":false,
+"textbookIsbn":"9781118655696",
+"vbid":"9781118655696"
+},{
+"authorName":"Donald E. Kieso",
+"bookId":14,
+"coverImageUrl":"http://covers.vitalbook.com/vbid/9781118655719/width/120",
+"description":"",
+"ebookIsbn":"9781118300855",
+"libraryId":19,
+"name":"Intermediate Accounting,Tenth Canadian Edition,Volume 2",
+"selected":false,
+"textbookIsbn":"9781118655719",
+"vbid":"9781118655719"
+},{
+"authorName":"Jill Solomon",
+"bookId":15,
+"coverImageUrl":"http://covers.vitalbook.com/vbid/9781118699256/width/120",
+"description":"",
+"ebookIsbn":"9781118449103",
+"libraryId":19,
+"name":"Corporate Governance and Accountability",
+"selected":false,
+"textbookIsbn":"9781118699256",
+"vbid":"9781118699256"
+},{
+"authorName":"Ken Black,Ignacio Castillo",
+"bookId":16,
+"coverImageUrl":"http://covers.vitalbook.com/vbid/9781118717486/width/120",
+"description":"",
+"ebookIsbn":"9781118476956",
+"libraryId":19,
+"name":"Business Statistics for Contemporary Decision Making,2nd Canadian Edition",
+"selected":false,
+"textbookIsbn":"9781118717486",
+"vbid":"9781118717486"
+},{
+"authorName":"R. Kelly Rainer",
+"bookId":17,
+"coverImageUrl":"http://covers.vitalbook.com/vbid/9781118726587/width/120",
+"description":"",
+"ebookIsbn":"9781118476994",
+"libraryId":19,
+"name":"Introduction to Information Systems,Third Canadian Edition",
+"selected":false,
+"textbookIsbn":"9781118726587",
+"vbid":"9781118726587"
+},{
+"authorName":"Christine Nordhielm",
+"bookId":18,
+"coverImageUrl":"http://covers.vitalbook.com/vbid/9781118801192/width/120",
+"description":"",
+"ebookIsbn":"9781118014554",
+"libraryId":19,
+"name":"Marketing Management:The Big Picture",
+"selected":false,
+"textbookIsbn":"9781118801192",
+"vbid":"9781118801192"
+},{
+"authorName":"Manish Agrawal",
+"bookId":19,
+"coverImageUrl":"http://covers.vitalbook.com/vbid/9781118803097/width/120",
+"description":"",
+"ebookIsbn":"9781118335895",
+"libraryId":19,
+"name":"Information Security and Risk Management",
+"selected":false,
+"textbookIsbn":"9781118803097",
+"vbid":"9781118803097"
+},{
+"authorName":"Paul D  Kimmel",
+"bookId":20,
+"coverImageUrl":"http://covers.vitalbook.com/vbid/9781118805053/width/120",
+"description":"",
+"ebookIsbn":"9781118644942",
+"libraryId":19,
+"name":"Financial Accounting:Tools for Business Decision-Making,Sixth Canadian Edition",
+"selected":false,
+"textbookIsbn":"9781118805053",
+"vbid":"9781118805053"
+},{
+"authorName":"Richard G. Schroeder,Myrtle W. Clark,Jack M. Cathey",
+"bookId":21,
+"coverImageUrl":"http://covers.vitalbook.com/vbid/9781118806371/width/120",
+"description":"",
+"ebookIsbn":"9781118582794",
+"libraryId":19,
+"name":"Financial Accounting Theory and Analysis:Text and Cases",
+"selected":false,
+"textbookIsbn":"9781118806371",
+"vbid":"9781118806371"
+},{
+"authorName":"Ronald Duska,Brenda Shay Duska & Julie Anne Ragatz",
+"bookId":40,
+"coverImageUrl":"http://covers.vitalbook.com/vbid/9781444343496/width/120",
+"description":"This new edition of Accounting Ethics has been comprehensively updated to encompass changes within the accounting profession since 2002; the authors systematically explore the new range of ethical issues that have arisen as a result of recent developments,including the financial crisis of 2008.  ",
+"ebookIsbn":"9781405196130",
+"libraryId":19,
+"name":"Accounting Ethics,2nd Edition",
+"selected":true,
+"textbookIsbn":"9781444343496",
+"vbid":"9781444343496"
+}]
+}

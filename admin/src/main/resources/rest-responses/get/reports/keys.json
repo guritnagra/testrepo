@@ -1,0 +1,32 @@
+{
+	"comment": "I'm pretty sure the `addDrop` attribute will no longer be needed on this report.  Not sure how we're handling add/drop now.",
+	"data": [
+		{
+			"stackName": "A cool name",
+			"type": "student",
+			"key": 3421424,
+			"dateActivated": 1420232873,
+			"name": "wickedGoodUsername",
+			"email": "rubicks@cube.com",
+			"addDrop": true
+		},
+		{
+			"stackName": "B cool name",
+			"type": "instructor",
+			"key": 342142124,
+			"dateActivated": 1390424873,
+			"name": "badUsername",
+			"email": "datuser@email.com",
+			"addDrop": true
+		},
+		{
+			"stackName": "C cool name",
+			"type": "student",
+			"key": 353252524,
+			"dateActivated": 1389560873,
+			"name": "okayUsername",
+			"email": "sup@dawg.com",
+			"addDrop": false
+		}
+	]
+}

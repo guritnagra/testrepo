@@ -1,0 +1,10 @@
+{
+	"config": {
+		"loginWelcome": "a",
+		"loginAdditionalInfo": null,
+		"collectionAdditionalInfo": "",
+		"eTextAdditionalInfo": "",
+		"primaryColor": "c67bc9",
+		"secondaryColor": "1c3b15"
+	}
+}

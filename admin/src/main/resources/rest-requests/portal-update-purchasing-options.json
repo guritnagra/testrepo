@@ -1,0 +1,19 @@
+{
+	"purchasing" : {
+		"rental" : {
+			"enabled" : true,
+			"promoCode" : "12345",
+			"url" : "http://vststack-test-store.s3-website-us-east-1.amazonaws.com/?vbid={vbid}&isbn13={ISBN13}"
+		},
+		"eText" : {
+			"enabled" : false,
+			"promoCode" : "1a345",
+			"url" : "http://vststack-test-store.s3-website-us-east-1.amazonaws.com/?vbid={vbid}"
+		},
+		"textBook" : {
+			"enabled" : true,
+			"promoCode" : "1b345",
+			"url" : "http://vststack-test-store.s3-website-us-east-1.amazonaws.com/?vbid={vbid}&isbn10={ISBN10}"
+		}
+	}
+}

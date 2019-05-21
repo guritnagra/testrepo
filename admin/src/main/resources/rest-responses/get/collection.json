@@ -1,0 +1,30 @@
+{
+"code":200,"text":"OK",
+	"comment": "This is for the table in the `collection` tab when editing stacks.",
+	"data": [
+		{
+			"title": "A Cool Book",
+			"edition": 1,
+			"author": "Brian Townsend",
+			"isbn": "123456789-123456789",
+			"discipline": "Mechanical Engineering",
+			"added": true
+		},
+		{
+			"title": "But Wait There's More",
+			"edition": 3,
+			"author": "Brian Kobe",
+			"isbn": "0123-123456789",
+			"discipline": "Chemical Engineering",
+			"added": false
+		},
+		{
+			"title": "Can't wait",
+			"edition": 2,
+			"author": "Brian Seacrst",
+			"isbn": "9842-123456789",
+			"discipline": "Mechanical Engineering",
+			"added": true
+		}
+	]
+}

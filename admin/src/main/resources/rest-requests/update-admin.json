@@ -1,0 +1,8 @@
+{
+	"firstName": "test7",
+	"lastName": "test7",
+	"email": "test7@test7.com",
+	"type": "admin",
+	"groups": [2],
+	"password": null
+}

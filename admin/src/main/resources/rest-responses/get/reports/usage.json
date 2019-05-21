@@ -1,0 +1,35 @@
+{
+	"comment": "Title usage report.",
+	"data": [
+		{
+			"title": "A cool book",
+			"author": "This guy",
+			"isbn": 3535324,
+			"studentActivations": 1,
+			"instructorActivations": 0,
+			"activations": 532,
+			"printClicks": 151,
+			"eTextClicks": 22
+		},
+		{
+			"title": "B cool book",
+			"author": "What a guy",
+			"isbn": 32442,
+			"studentActivations": 88,
+			"instructorActivations": 24,
+			"activations": 15,
+			"printClicks": 63,
+			"eTextClicks": 23
+		},
+		{
+			"title": "C cool book",
+			"author": "Bob Jones",
+			"isbn": 1212414,
+			"studentActivations": 8,
+			"instructorActivations": 421,
+			"activations": 1,
+			"printClicks": 1,
+			"eTextClicks": 12
+		}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"contact" : {
+		"email" : "theron.patrick@mailinator.com",
+		"name" : "Theron Patrick",
+		"phone" : "717 617-6176"
+	},
+	"isPending" : false,
+	"isFavorite" : false,
+	"language" : "jp",
+	"books" : [{"vbid":"9781118803097"}, {"vbid":"9781118805053"}]
+}

@@ -1,0 +1,15 @@
+{
+	"firstName": "Test",
+	"lastName": "Test2",
+	"questionId": 3,
+	"questionResponse": "5",
+	"email": "test10@test.com",
+	"password": "test",
+	"verifyPassword": "test",
+	"language": "en",
+	"promotionSubscription": true,
+	"surveySubscription": false,
+	"type":"admin",
+	"groupId":1,
+	"libraries":[25,26]
+}

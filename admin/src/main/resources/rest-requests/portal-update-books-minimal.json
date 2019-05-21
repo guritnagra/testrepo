@@ -1,0 +1,18 @@
+{
+	"books": [{
+		"vbid": "9781444343496",
+		"selected": true
+	}, {
+		"vbid": "9781118547182",
+		"selected": true
+	}, {
+		"vbid": "9780730302155",
+		"selected": false
+	}, {
+		"vbid": "9781118274743",
+		"selected": false
+	}, {
+		"vbid": "9781118717486",
+		"selected": false
+	}]
+}

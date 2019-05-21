@@ -1,0 +1,29 @@
+{
+	"comment": "I've been using this for the entire admin home page.  `domain` could be taken out of both the first and second attributes.  `generatedCodes` should be changed to `generatedKeys`.  Also, I've been using the same call to populate favorite domains, top domains by keys generated, and top titles.  I think the first two have the same fields, but top titles by activation has domain name, author name, isbn, total activations, and activations this month. ",
+	"data": [
+		{
+			"domainName": "A My domain",
+			"domainUrl": "subdomain.wiley.com",
+			"userTitleLimit": 5,
+			"generatedCodes": 10000,
+			"registeredUsers": 100,
+			"bookActivations": 220
+		},
+		{
+			"domainName": "C My domain2",
+			"domainUrl": "subdomain2.wiley.com",
+			"userTitleLimit": 2,
+			"generatedCodes": 985,
+			"registeredUsers": 10,
+			"bookActivations": 2200
+		},
+		{
+			"domainName": "B My domain3",
+			"domainUrl": "subdomain3.wiley.com",
+			"userTitleLimit": 3,
+			"generatedCodes": 981,
+			"registeredUsers": 12,
+			"bookActivations": 20
+		}
+	]
+}

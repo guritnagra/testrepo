@@ -1,0 +1,20 @@
+{
+"contact": {
+	"email": "theron.patrick@mailinator.com",
+	"name": "Theron Patrick",
+	"phone": "617 617-6176"
+},
+"domain": "test987",
+"isFavorite": false,
+"language": "en",
+"library": {
+	"apiKey": null,
+	"name": "carrington",
+	"type": "INSTITUTIONAL",
+	"id": 25
+},
+"stackName": "test-fmt",
+"purchaseCredits": 5,
+"trialCredits": -1,
+"showAllBooks": false
+}

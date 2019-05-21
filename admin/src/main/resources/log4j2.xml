@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration>
+	<Appenders>
+		<Console name="STDOUT" target="SYSTEM_OUT">
+			<PatternLayout pattern="%d{yy-MMM-dd  HH:mm:ss.SSS}   [%p]  %-25logger{0} %L | %msg%n" />
+		</Console>
+	</Appenders>
+	<Loggers>
+		<Logger name="org.apache.log4j.xml" level="info" />
+		
+		<Root level="info">
+			<AppenderRef ref="STDOUT" />
+		</Root>
+		<logger name="com.vst.bridge" level="info"/>
+		<logger name="org.springframework.jdbc" level="info"/>
+
+		<logger name="org.glassfish.jersey" level="info"/>
+		<logger name="org.openqa.selenium" level="debug">
+			<AppenderRef ref="STDOUT" />
+		</logger>
+		<logger name="org.testng" level="debug">
+			<AppenderRef ref="STDOUT" />
+		</logger>
+		<logger name="java.lang" level="info">
+			<AppenderRef ref="STDOUT" />
+		</logger>
+		<logger name="org.springframework" level="info" />
+		<logger name="org.hibernate" level="info" />
+		<logger name="org.apache.commons" level="warn" />
+		<logger name="org.apache.velocity" level="warh" />
+	</Loggers>
+</Configuration>

@@ -1,0 +1,17 @@
+{
+"contact": {
+	"email": "theron.patrick@mailinator.com",
+	"name": "Theron Patrick",
+	"phone": "617 617-6176"
+},
+"domain": "stack.stackvsb.org",
+"isFavorite": false,
+"language": "en",
+"library": {
+	"apiKey": null,
+	"name": "metropolitanuniversitylibrary",
+	"type": "INSTITUTIONAL",
+	"id": 2
+},
+"xtackName": "devStackT"
+}

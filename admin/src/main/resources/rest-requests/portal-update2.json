@@ -1,0 +1,13 @@
+{
+	"contact": {
+		"email": "t",
+		"name": "t1",
+		"phone": "2"
+	},
+	"stackName": "test1",
+	"language": "en",
+	"domain": "test",
+	"library": {
+		"id": 2
+	}
+}

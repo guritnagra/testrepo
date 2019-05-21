@@ -1,0 +1,29 @@
+{
+	"comment": "",
+	"data": [
+		{
+			"name": "A cool domain",
+			"instKeysCreated": 500,
+			"instKeysUsed": 324,
+			"stuKeysCreated": 1,
+			"stuKeysUsed": 0,
+			"logins": 1
+		},
+		{
+			"name": "B cool domain",
+			"instKeysCreated": 50,
+			"instKeysUsed": 32,
+			"stuKeysCreated": 18,
+			"stuKeysUsed": 5,
+			"logins": 12
+		},
+		{
+			"name": "C cool domain",
+			"instKeysCreated": 5040,
+			"instKeysUsed": 3241,
+			"stuKeysCreated": 3211,
+			"stuKeysUsed": 542,
+			"logins": 142
+		}
+	]
+}
